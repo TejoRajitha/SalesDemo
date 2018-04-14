@@ -7,6 +7,7 @@ public class TestSales
 		sl.setProduct("Table");
 		
 		sl.display();
+		System.out.println("Sales the Testing Products");
 
 	}
 
